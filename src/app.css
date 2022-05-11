@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 10px;
+}
+body{
+    background-color: whitesmoke;
+}
+.brand{
+    font-size: 3rem;
+    font-family: serif;
+    font-weight: 500;
+}
+.task_body{
+    font-size: 2rem;
+    display: grid;  
+    grid-gap: 10px;  
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+}
+.search{
+    font-size: 2rem;
+}
+.search_input{
+    max-width: 300px;
+    font-size: 2rem;
+}

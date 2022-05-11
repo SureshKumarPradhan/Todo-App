@@ -1,0 +1,18 @@
+.todo_form{
+    width: 50rem;
+    border:1px solid gray;
+    box-shadow: 5px 10px 5px gray;
+    border-radius: 20px;
+}
+.label{
+    margin-bottom: 5px;
+    font-size: 2rem;
+    font-family: serif;
+}
+.input{
+    font-size: 2rem;
+}
+.form_btn{
+    font-size: 2rem;
+    border-radius: 5px;
+}

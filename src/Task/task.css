@@ -1,0 +1,25 @@
+.card-body{
+    z-index: 0;
+}
+
+.taskTitle{
+    text-align: center;
+    margin-top: 5px;
+    font-weight: 500;
+    text-transform: capitalize;
+    
+}
+.taskNote{
+    text-align: justify;
+}
+.taskBtn{
+    float: right;
+    margin-top: -20px;
+}
+.taskBtn button{
+    font-size: 17px;
+    color: white;
+}
+.taskBtn  .edit {
+    margin-right: 10px;
+}
